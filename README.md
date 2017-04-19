@@ -1,4 +1,7 @@
-# test coverage for  [bigrig (v1.3.0)](https://github.com/GoogleChrome/node-big-rig#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-bigrig.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bigrig) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bigrig.svg)](https://travis-ci.org/npmtest/node-npmtest-bigrig)
+# npmtest-bigrig
+
+#### basic test coverage for  [bigrig (v1.3.0)](https://github.com/GoogleChrome/node-big-rig#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-bigrig.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bigrig) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bigrig.svg)](https://travis-ci.org/npmtest/node-npmtest-bigrig)
+
 #### A CLI and node module for parsing trace (timeline) files from Chrome.
 
 [![NPM](https://nodei.co/npm/bigrig.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bigrig)
